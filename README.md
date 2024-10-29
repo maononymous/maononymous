@@ -1,6 +1,8 @@
-## Hi there 👋
+## Welcome🙋‍♂️
 
 You are on the README of Abdullah Omer Mohammed
+
+# About me 🕵️‍♂️
 
 I am currently pursuing my Master's degree👨‍🎓 in Computer Sciences💻 from DePaul University, in the beautiful city of Chicago!
 
@@ -22,7 +24,8 @@ How to reach me: mabdul23@depaul.edu: / omerabdullahforms@gmail.com 📫
 
 Fun Fact: I am an art-enthusiast🎨, a photographer📸, cooking🥞 and fitness🏋️‍♂️.⚡
 
-Skills:
+# My Skills 🧰
+
 C | C++ | Java | Python | Programming Languages | DataStructures | Algorithms | Object Oriented Programming
 
 HTML | CSS | JavaScript | JavaFX | JavaAWT | MySQL | JDBC | Web Development
