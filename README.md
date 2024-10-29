@@ -2,7 +2,11 @@
 
 You are on the README of Abdullah Omer Mohammed
 
-I am currently pursuing my Master's degree in Computer Sciences from DePaul University, in the beautiful city of Chicago!
+I am currently pursuing my Master's degree👨‍🎓 in Computer Sciences💻 from DePaul University, in the beautiful city of Chicago!
+
+I am also working as a Department Assistent👨‍💼 for the Continuing and Professional Education Depatment, here at DePaul.🏫
+
+I have a curious mind towards nature🌳 and math🧮 and I am on the tip of my toes for capturing anything amazing I find in my daily life through the lens of my phone!📱
 
 I am currently working on upskilling myself and finding my niche to specialise myself.🔭
 
@@ -19,7 +23,16 @@ How to reach me: mabdul23@depaul.edu: / omerabdullahforms@gmail.com 📫
 Fun Fact: I am an art-enthusiast🎨, a photographer📸, cooking🥞 and fitness🏋️‍♂️.⚡
 
 Skills:
-Java https://www.google.com/imgres?q=java%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F07%2FJava-Logo.jpg&imgrefurl=https%3A%2F%2Flogos-world.net%2Fjava-logo%2F&docid=IvI-Yker4lC4aM&tbnid=skH6ocmi8EVwBM&vet=12ahUKEwjc1ZSJlLSJAxX7G9AFHfArKbIQM3oFCIUBEAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwjc1ZSJlLSJAxX7G9AFHfArKbIQM3oFCIUBEAA![image](https://github.com/user-attachments/assets/639e5d0c-4999-4db0-b398-3af964d055f3)
+C | C++ | Java | Python | Programming Languages | DataStructures | Algorithms | Object Oriented Programming
+
+HTML | CSS | JavaScript | JavaFX | JavaAWT | MySQL | JDBC | Web Development
+
+iOS Development | Android Development | XCode | Android Studio | Swift | Mobile App Development
+
+C# | Arduino | Arduino IDE | Raspberry Pi | MATLAB
+
+Chatbot Development | Chatbot Design | Chatbot Responses | Chatbot Testing
+
 
 <!--
 **maononymous/maononymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
