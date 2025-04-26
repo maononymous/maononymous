@@ -1,53 +1,24 @@
-# Welcome🙋‍♂️
-
-You are on the README of Abdullah Omer Mohammed
-
-## About me 🕵️‍♂️
-
-I am currently pursuing my Master's degree👨‍🎓 in Computer Sciences💻 from DePaul University, in the beautiful city of Chicago!
-
-I am also working as a Department Assistent👨‍💼 for the Continuing and Professional Education Depatment, here at DePaul.🏫
-
-I have a curious mind towards nature🌳 and math🧮 and I am on the tip of my toes for capturing anything amazing I find in my daily life through the lens of my phone!📱
-
-I am currently working on upskilling myself and finding my niche to specialise myself.🔭
-
-I am currently learning React and NodeJS.🌱
-
-I am looking to collaborate on Swift Student Challenge 2025.👯‍♂️
-
-I am looking for help with ideas on iOS App Development.🤔
-
-Ask me about Programming, DataStructures, Algorithms.💬
-
-How to reach me: mabdul23@depaul.edu: / omerabdullahforms@gmail.com 📫
-
-Fun Fact: I am an art-enthusiast🎨, a photographer📸, cooking🥞 and fitness🏋️‍♂️.⚡
-
-## My Skills 🧰
-
-C | C++ | Java | Python | Programming Languages | DataStructures | Algorithms | Object Oriented Programming
-
-HTML | CSS | JavaScript | JavaFX | JavaAWT | MySQL | JDBC | Web Development
-
-iOS Development | Android Development | XCode | Android Studio | Swift | Mobile App Development
-
-C# | Arduino | Arduino IDE | Raspberry Pi | MATLAB
-
-Chatbot Development | Chatbot Design | Chatbot Responses | Chatbot Testing
+# 💫 About Me:
+I am currently pursuing my Master’s degree 👨‍🎓 in Computer Science 💻 at DePaul University, in the vibrant city of Chicago!<br>I work as a Program Assistant 👨‍💼 for the Continuing and Professional Education Department 🏫 at DePaul.<br>I have a curious mind towards nature 🌳 and mathematics 🧮, and I love capturing moments from daily life through the lens of my phone 📱.<br>I am passionate about iOS development 📱 and currently working on multiple Swift and SwiftUI projects.🔭<br>I’m excited to collaborate on the Swift Student Challenge 2025 👯‍♂️ and always open to brainstorming creative app ideas 🤔.<br>📚 Ask me about Programming, Data Structures, and Algorithms!<br>📫 Reach me at:<br>mabdul23@depaul.edu<br>omerabdullahforms@gmail.com<br>Fun Fact: I’m an art enthusiast 🎨, passionate about photography 📸, love experimenting in the kitchen 🥞, and committed to fitness 🏋️‍♂️.
 
 
-<!--
-**maononymous/maononymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maononymous) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-abdullah-omer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerabdullahforms@gmail.com) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maononymous&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maononymous&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maononymous&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maononymous&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=maononymous&icon=4&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
